@@ -18,6 +18,39 @@ var myPoints = L.geoJson(geojsonFeature, {
     onEachFeature: featureClick
 }).addTo(map);
 
+var povertyStyle = function (feature){
+    var value = feature.properties.PovertyPer;
+    var fillColor = null;
+    if(value >= 0 && value <=0.1){
+		fillColor = "#fee5d9";
+    }
+    if(value >0.1 && value <=0.15){
+        fillColor = "#fcbba1";
+    }
+    if(value >0.15 && value<=0.2){
+    	fillColor = "#fc9272";
+    }
+    if(value > 0.2 && value <=0.3){
+    	fillColor = "#fb6a4a";
+    }
+    if(value > 0.3 && value <=0.4) { 
+		fillColor = "#de2d26";
+    }
+    if(value > 0.4) { 
+		fillColor = "#a50f15";
+    }
+
+    var style = {
+        weight: 1,
+        opacity: .1,
+        color: 'white',
+        fillOpacity: 0.75,
+        fillColor: fillColor
+    };
+
+    return style;
+}
+
 
 
 
