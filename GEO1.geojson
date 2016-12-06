@@ -1,0 +1,232 @@
+var geojsonFeature={
+   "type": "FeatureCollection",
+   "features": [
+ {
+   
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.997552, 40.746581 ]
+   },
+ 
+   "properties": {
+   "BOROUGH": "MANHATTAN",
+   "Street Name": "WEST 25TH STREET, MANHATTAN NY,10016",
+   "Issuance Date": "7/13/2015 12:00:00",
+   "Expiration Date": "7/3/2016",
+   "Job Start Date": "7/13/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "107 WEST 25TH STREET CORP",
+   "Owner's First Name": "MICHELLE",
+   "Owner's Last Name": "GREENSPAN",
+   "Owner's Phone #": 2126611150,
+   "time": "7/14/2015 12:00:00 PM"
+   }
+ },
+{
+      "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.914469, 40.7014075]
+      },
+   "properties":{
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "WYCKOFF AVENUE, BROOKLYN NY, 11237",
+   "Issuance Date": "7/15/2015 12:00:00",
+   "Expiration Date": "7/3/2016",
+   "Job Start Date": "7/15/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "NEW WORLD GROUP LLC",
+   "Owner's First Name": "ILAN",
+   "Owner's Last Name": "TELMONT",
+   "Owner's Phone #": 9173040561,
+   "time": "7/16/2015 12:00:00 PM"
+   }
+ },
+{     
+  "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.914469,40.7014075]
+      },
+   "properties":{
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "WYCKOFF AVENUE, BROOKLYN  NY, 11237",
+   "Issuance Date": "7/15/2015 12:00:00",
+   "Expiration Date": "7/3/2016",
+   "Job Start Date": "7/15/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "NEW WORLD GROUP LLC",
+   "Owner's First Name": "ILAN",
+   "Owner's Last Name": "TELMONT",
+   "Owner's Phone #": 9173040561,
+   "time": "7/16/2015 12:00:00 PM"
+}
+ },
+ {
+     "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.7341053,40.7595772]
+      },
+      "properties":{
+   "BOROUGH": "QUEENS",
+   "Street Name": "HORACE HARDING EXPRESSWAY, QUEENS, 11362 NY",
+   "Issuance Date": "3/16/2015 12:00:00",
+   "Expiration Date": "7/3/2015",
+   "Job Start Date": "3/16/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "PARTNERSHIP",
+   "Owner's Business Name": "ENESLOW LITTLE NECK LLC",
+   "Owner's First Name": "ROBERT",
+   "Owner's Last Name": "SCHWARTZ",
+   "Owner's Phone #": 7183575800,
+   "time": "3/17/2015 12:00:00 PM"
+   }
+ },
+{
+     "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.9656725,40.7042672]
+      },
+   "properties":{
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "WYTHE AVENUE, BROOKLYN NY, 11211",
+   "Issuance Date": "2/27/2015 12:00:00",
+   "Expiration Date": "7/3/2015",
+   "Job Start Date": "2/27/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "87 WYTHE HOLDING LLC",
+   "Owner's First Name": "MAYER",
+   "Owner's Last Name": "JOHN",
+   "Owner's Phone #": 9176135716,
+   "time": "2/28/2015 12:00:00 PM"
+   }
+ },
+{
+     "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [-73.9656725,40.7042672,]
+      },
+   "properties":{
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "WYTHE AVENUE, BROOKLYN NY, 11211",
+   "Issuance Date": "2/27/2015 12:00:00",
+   "Expiration Date": "7/3/2015",
+   "Job Start Date": "2/27/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "87 WYTHE HOLDING LLC",
+   "Owner's First Name": "MAYER",
+   "Owner's Last Name": "JOHN",
+   "Owner's Phone #": 9176135716,
+   "time": "2/28/2015 12:00:00 PM"
+   }
+ },
+{
+     "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.9328494,40.7089873]
+      },
+   "properties":{
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "MORGAN AVENUE, BROOKLYN NY, 11237",
+   "Issuance Date": "7/15/2015 12:00:00",
+   "Expiration Date": "7/3/2016",
+   "Job Start Date": "7/15/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "OUR WICKED LADY LLC",
+   "Owner's First Name": "ZACHARY",
+   "Owner's Last Name": "GLASS",
+   "Owner's Phone #": 9176135716,
+   "time": "7/16/2015 12:00:00 PM"
+   }
+ },
+{
+     "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [ -73.9328494,40.7089873]
+      },
+   "properties":{
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "MORGAN AVENUE, BROOKLYN NY, 11237",
+   "Issuance Date": "7/15/2015 12:00:00",
+   "Expiration Date": "7/3/2016",
+   "Job Start Date": "7/15/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "CORPORATION",
+   "Owner's Business Name": "OUR WICKED LADY LLC",
+   "Owner's First Name": "ZACHARY",
+   "Owner's Last Name": "GLASS",
+   "Owner's Phone #": 9176135716,
+   "time": "7/16/2015 12:00:00 PM"
+   }
+ },
+{
+     "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [-73.9639656,40.7155896]
+      },
+   "properties": { 
+   "BOROUGH": "BROOKLYN",
+   "Street Name": "GRAND STREET, BROOKLYN NY, 11249",
+   "Issuance Date": "2/27/2015 12:00:00",
+   "Expiration Date": "7/3/2015",
+   "Job Start Date": "2/27/2015",
+   "Permittee's First Name": "MATTHEW",
+   "Permittee's Last Name": "WRIGHT",
+   "Permittee's Business Name": "SKYHIGH MURALS-COLOSSAL",
+   "Permittee's Phone #": 7188580979,
+   "Permittee's License Type": "SIGN HANGER",
+   "Owner's Business Type": "PARTNERSHIP",
+   "Owner's Business Name": "RUDY'S NEW YORK LLC",
+   "Owner's First Name": "KATIE",
+   "Owner's Last Name": "TRENT",
+   "Owner's Phone #": 7182101772,
+   "time": "2/28/2015 12:00:00 PM"  
+  }
+ }
+]
+};
