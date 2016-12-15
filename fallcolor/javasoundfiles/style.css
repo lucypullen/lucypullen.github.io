@@ -1,0 +1,102 @@
+   <style>
+      body{
+        background-color: lightblue;
+    }
+
+      div.hawk{
+        background-color:#9ebcda;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+  
+    }
+          div.crow{
+        background-color:#6B8E23;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.leopard{
+        background-color:#FFFF00;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+      div.canadian_geese{
+        background-color:#FF4500;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.elephant{
+        background-color:#FFA500;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.cardinal{
+        background-color:#9ebcda;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.bee{
+        background-color:#6B8E23;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.rooster{
+        background-color:#FFFF00;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.cat{
+        background-color:#FF4500;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.dog{
+        background-color:#9ebcda;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.cow{
+        background-color:#6B8E23;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.finch{
+        background-color:#FFFF00;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }

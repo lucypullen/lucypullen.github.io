@@ -1,0 +1,115 @@
+         body{
+        background-color: lightblue;
+        font-family:'Roborto', sans-serif;
+        font-size: 40px;
+        font color:000000;
+     }
+
+     div.hawk{
+        background-color:#9ebcda;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left; 
+        display:none
+  
+    }
+          div.crow{
+        background-color:#6B8E23;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.leopard{
+        background-color:#FFFF00;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+      div.canadian_geese{
+        background-color:#FF4500;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.elephant{
+        background-color:#FFA500;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.cardinal{
+        background-color:#00ff99;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.bee{
+        background-color:#990000;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.rooster{
+        background-color:#0073e6;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.cat{
+        background-color:#cc6699;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.dog{
+        background-color:#00ff99;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.cow{
+        background-color:#ffccff;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+          div.finch{
+        background-color:#FFFF00;
+        height:150px;
+        width:300px;
+        border:0px solid #000000;
+        margin:20px;
+        float:left;
+    }
+
+ a: link{
+  color: maroon;
+}
+  a: visited {
+    color: black;
+}
+    a: hover {
+      color: lightblue;
+}   

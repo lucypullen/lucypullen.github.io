@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+  
+ 
+
+<audio autoplay loop>
+  <source src="cat.ogg" type="audio/ogg">
+  <source src="cat.mp3" type="audio/mpeg">
+</audio>
+
+  <style>
+      body {
+        background-color: lightblue;
+      }
+
+</body>
+</html>

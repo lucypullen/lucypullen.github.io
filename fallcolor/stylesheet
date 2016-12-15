@@ -1,0 +1,109 @@
+.chart{
+	border: invisible;
+	width: 450px;
+	height: .1px;
+	padding: 0px;
+
+}
+.column{
+	width: 90px;
+	height: 100000%;
+	margin: 0px 0px;
+	float: left;
+	position: relative;
+
+}
+
+.column .fill{
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+  color: red;
+}
+.label{
+	text-align: center;
+}
+
+.column-container{
+
+	height: 10000%;
+}
+
+.column .text{
+
+	visibility: invisible;
+	width: 70px;
+	background-color: silver;
+	color: #fff;
+	text-align: center;
+	padding: 1px 0;
+	border-radius: 10px;
+	top: 100%;
+	left: 50%;
+	margin-left: -60px;
+	position: absolute;
+	z-index: 1;
+
+}
+
+
+.column:hover .text{
+visibility: visible;
+
+}
+.chart{
+	border: invisible
+	width: 450px;
+	height: .1px;
+	padding: 0px;
+
+}
+.column{
+	width: 90px;
+	height: 100000%;
+	margin: 0px 0px;
+	float: left;
+	position: relative;
+}
+
+.column .fill{
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+
+}
+.label{
+	text-align: center;
+}
+
+.column-container{
+
+	height: .10%;
+
+}
+
+.column .text{
+
+	visibility: visible;
+	width: 70px;
+	background-color: silver;
+	color: #fff;
+	text-align: center;
+	padding: 5px ;
+	border-radius: 6px;
+	top: 100%;
+	left: 50%;
+	margin-left: -60px;
+	position: absolute;
+	z-index: 1;
+
+}
+
+ 
+
+.column:hover {
+	color-interpolation: 
+
+visibility: visible;
+
+}
