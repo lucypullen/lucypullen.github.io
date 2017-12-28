@@ -1,6 +1,6 @@
 # lucypullen.github.io
 
-The first sketch is the site for a CAFKA '18 Biennial in KW Canada. The second sketch is of my studio, a storefront in Ridgewood Queens. The third sketch represents a grafitti / mural spot in Bushwick Brooklyn. 
+The first sketch represents the site for the project with CAFKA. The second sketch represents my storefront studio. The third sketch represents a grafitti spot. 
 
 Project 1: There's a square pie chart and many colorful slices. Here are two possible interations: a rollover function changes the colors; a time-based function will change the number of slices as some aspect of a dataset changes. Thalmic, a Canadian 'wearable tech' company sponsors the artwork. The goal of the first project is to animate the project with p5. 
 
